@@ -44,3 +44,7 @@ use, modification, learning and reference
 - [masir](https://github.com/LGUG2Z/masir) - Focus Follows Mouse for
   Windows
 - [wpm](https://github.com/LGUG2Z/wpm) - Windows Process Manager
+- [whkd](https://github.com/LGUG2Z/whkd) - Windows Hotkey Daemon
+- [komokana](https://github.com/LGUG2Z/komokana) -  Automatic application-aware keyboard layer switching for Windows
+- [sunwukong](https://github.com/ahoward/sunwukong) - AI agenic framework for super monkeys
+- [clee](https://github.com/ahoward/clee/tree/main) - A tiny, 0 dependency DSL for building über clean CLIs in Ruby
