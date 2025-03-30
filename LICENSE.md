@@ -1,6 +1,6 @@
 # Komorebi License
 
-Version 1.0.0
+Version 2.0.0
 
 ## Acceptance
 
@@ -13,9 +13,20 @@ your licenses.
 The licensor grants you a copyright license for the software
 to do everything you might do with the software that would
 otherwise infringe the licensor's copyright in it for any
-permitted purpose. However, you may only make changes according
+permitted purpose. However, you may only distribute the source
+code of the software according to the [Distribution License](
+#distribution-license), you may only make changes according
 to the [Changes License](#changes-license), and you may not
-distribute the software or new works based on the software.
+otherwise distribute the software or new works based on the
+software.
+
+## Distribution License
+
+The licensor grants you an additional copyright license to
+distribute copies of the source code of the software. Your
+license to distribute covers distributing the source code of
+the software with changes permitted by the [Changes License](
+#changes-license).
 
 ## Changes License
 
@@ -95,4 +106,3 @@ software under these terms.
 
 **Use** means anything you do with the software requiring one
 of your licenses.
-
