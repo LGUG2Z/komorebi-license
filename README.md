@@ -17,6 +17,9 @@ license.
 It has been modified to integrate a "Changes License" based on the "Changes and
 New Works License" of the
 [PolyForm-Noncommercial](https://github.com/polyformproject/polyform-licenses/blob/1.0.0/PolyForm-Noncommercial-1.0.0.md)
+license, a "Distribution License" for source code based on the "Distribution
+License" of the
+[PolyForm-Noncommercial](https://github.com/polyformproject/polyform-licenses/blob/1.0.0/PolyForm-Noncommercial-1.0.0.md)
 license, while also removing any use by noncommercial organizations from the
 enumerated list of Permitted Purposes.
 
