@@ -51,3 +51,4 @@ use, modification, learning and reference
 - [komokana](https://github.com/LGUG2Z/komokana) -  Automatic application-aware keyboard layer switching for Windows
 - [sunwukong](https://github.com/ahoward/sunwukong) - AI agenic framework for super monkeys
 - [clee](https://github.com/ahoward/clee/tree/main) - A tiny, 0 dependency DSL for building über clean CLIs in Ruby
+- [shelv](https://github.com/twop/shelv) -  Hackable, local, ai-enabled notes app
